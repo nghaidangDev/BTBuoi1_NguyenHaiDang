@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BTBuoi_Android</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="go_button1_title">Go to Example1 Activity</string>
+    <string name="go_button2_title">Go to Example2 Activity</string>
+    <string name="go_button3_title">Go to Example3 Activity</string>
+    <string name="go_button4_title">Go to Example4 Activity</string>
+    <string name="go_button5_title">Go to Example5 Activity</string>
+    <string name="button_1">Click me</string>
+    <string name="lerge1_text">Leger text</string>
+    <string name="lerge2_text">Leger text</string>
+    <string name="medium_text">Medium text</string>
+    <string name="medium2_text">Medium text</string>
+</resources>
